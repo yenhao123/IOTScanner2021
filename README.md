@@ -42,4 +42,9 @@ engines
 engine
 1. Metasploit
 
-
+## 須知
+1. 連接db password換成自己設的密碼，以下為須更動的檔案
+www/site_prod.php
+www/ip_cve.php
+www/get_db/device_ip.php
+www/get_db/device_num.php
